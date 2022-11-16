@@ -5073,7 +5073,7 @@ self.C3_ExpressionFuncs = [
 		() => "Бонус",
 		() => "Назад",
 		() => "ui",
-		() => "Want to watch ads and get [color=#00E837]2x earnings[/color] bonus within 60 seconds?",
+		() => "需要观看广告去获得一个持续 60 秒的 [color=#00E837]2x 收益[/color] 奖励?",
 		() => "Скины",
 		() => "Настройки",
 		() => "Статистика",
@@ -5094,7 +5094,7 @@ self.C3_ExpressionFuncs = [
 			const v9 = p._GetNode(9).GetVar();
 			const f10 = p._GetNode(10).GetBoundMethod();
 			const n11 = p._GetNode(11);
-			return () => (((((((((((("Play Time: [color=#CAEAEA]" + f0(n1.ExpObject("Time"), 1)) + "[/color]\nClicks: [color=#CAEAEA]") + f2(n3.ExpObject("Clicks"))) + "[/color]\nTotal Time Baks: [color=#CAEAEA]") + f4(n5.ExpObject("Bucks"))) + "[/color]\nTime Backs per second: [color=#CAEAEA]") + f6(v7.GetValue())) + "[/color]\nTime Backs per click: [color=#CAEAEA]") + f8(v9.GetValue(), 0)) + "[/color]\nSpent: [color=#CAEAEA]") + f10(n11.ExpObject("Spent"))) + "[/color]");
+			return () => (((((((((((("游戏时长: [color=#CAEAEA]" + f0(n1.ExpObject("Time"), 1)) + "[/color]\n点击: [color=#CAEAEA]") + f2(n3.ExpObject("Clicks"))) + "[/color]\n总计时间倒流: [color=#CAEAEA]") + f4(n5.ExpObject("Bucks"))) + "[/color]\n时间倒流每秒: [color=#CAEAEA]") + f6(v7.GetValue())) + "[/color]\n时间倒流每次点击: [color=#CAEAEA]") + f8(v9.GetValue(), 0)) + "[/color]\n花费: [color=#CAEAEA]") + f10(n11.ExpObject("Spent"))) + "[/color]");
 		},
 		() => "Достижения",
 		() => 86400,
@@ -5151,7 +5151,7 @@ self.C3_ExpressionFuncs = [
 			return () => ((((n0.ExpObject()) === (v1.GetValue()) ? 1 : 0)) ? ("Открыто") : ("Закрыто"));
 		},
 		() => "Реклама",
-		() => "Want to watch a short ad and [color=#00E837]get a skin[/color]?",
+		() => "想要观看一个短广告去 [color=#00E837]获得1个皮肤[/color]?",
 		() => "Анимация",
 		() => "НастроитьHSL",
 		() => "ПокупкаБонусов",
