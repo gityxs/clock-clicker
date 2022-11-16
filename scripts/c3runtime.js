@@ -4653,7 +4653,7 @@ self.C3_ExpressionFuncs = [
 			const v7 = p._GetNode(7).GetVar();
 			const v8 = p._GetNode(8).GetVar();
 			const v9 = p._GetNode(9).GetVar();
-			return () => ((((v0.GetValue()) <= (1) ? 1 : 0)) ? ((f1((((n2.ExpBehavior() * (1 / 6)) + v3.GetValue()) * v4.GetValue()), 0) + "/sec")) : ((and((f5((((n6.ExpBehavior() * (1 / 6)) + v7.GetValue()) * v8.GetValue()), 0) + "/sec [color=#E7EB00]x"), v9.GetValue()) + "[/color]")));
+			return () => ((((v0.GetValue()) <= (1) ? 1 : 0)) ? ((f1((((n2.ExpBehavior() * (1 / 6)) + v3.GetValue()) * v4.GetValue()), 0) + "/秒")) : ((and((f5((((n6.ExpBehavior() * (1 / 6)) + v7.GetValue()) * v8.GetValue()), 0) + "/秒 [color=#E7EB00]x"), v9.GetValue()) + "[/color]")));
 		},
 		() => "ШкалаПрогресса",
 		p => {
