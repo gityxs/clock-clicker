@@ -1412,7 +1412,7 @@
                             [
                                 [56, 248, 0, 976, 528, 0, 0, [1, 1, 1, 1], 0, 0, 0, 0, [], null, null, null, ["", ""]], 13, 76, [],
                                 [],
-                                ["Play Time:\nClicks:\nTotal Time Baks:\nTime Backs per second:\nTime Backs per click:\nSpent:", true, "Calibri", 45, 0, true, false, [0.5529411764705883, 0.6274509803921569, 0.6235294117647059], 0, 0, 0, true, 0]
+                                ["游戏时长:\n点击:\n总计时间倒流:\n时间倒流每秒:\n时间倒流每次点击:\n花费:", true, "Calibri", 45, 0, true, false, [0.5529411764705883, 0.6274509803921569, 0.6235294117647059], 0, 0, 0, true, 0]
                             ],
                             [
                                 [1504, 96, 0, 700, 140, 0, 0, [1, 1, 1, 1], 0.5014285714285714, 0.45357142857142857, 0, 0, [], null, null, null, ["", ""]], 10, 77, [],
@@ -1451,7 +1451,7 @@
                             [
                                 [960, 444, 0, 800, 264, 0, 0, [1, 1, 1, 1], 0.5, 0.5, 0, 0, [], null, null, null, ["", ""]], 37, 85, [],
                                 [],
-                                ["Get a permanent [color=#E7EB00]2x bonus[/color], but have [color=#ff3838]to start all over again[/color]?", true, "angrybirds-regular3", 49, 0, false, false, [0, 0.8784313725490196, 0.9254901960784314], 1, 1, 0, true, 4]
+                                ["得到一个永久性 [color=#E7EB00]2x 奖励[/color], 但是需要 [color=#ff3838]从头开始玩[/color]?", true, "angrybirds-regular3", 49, 0, false, false, [0, 0.8784313725490196, 0.9254901960784314], 1, 1, 0, true, 4]
                             ],
                             [
                                 [959.5, 648, 0, 271, 105, 0, 0, [1, 1, 1, 1], 0.5, 0.5, 0, 0, [], null, null, null, ["", ""]], 36, 86, [1],

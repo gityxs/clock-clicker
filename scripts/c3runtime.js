@@ -5047,7 +5047,7 @@ self.C3_ExpressionFuncs = [
 			const f0 = p._GetNode(0).GetBoundMethod();
 			const n1 = p._GetNode(1);
 			const n2 = p._GetNode(2);
-			return () => (("[color=#73D383]" + f0(n1.ExpObject((n2.ExpObject()).toString()))) + " time bucks [/color] per second");
+			return () => (("[color=#73D383]" + f0(n1.ExpObject((n2.ExpObject()).toString()))) + " 时间金钱 [/color] 没买哦");
 		},
 		p => {
 			const v0 = p._GetNode(0).GetVar();
